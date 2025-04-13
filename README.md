@@ -6,6 +6,7 @@
 
 - [cs.AI]()
   - [How Close Can LLMs Get to Human Intelligence? A Study on Purpose, Consciousness, and Simulated Emotion](./cs.AI/How_Close_Can_LLMs_Get_to_Human_Intelligence.md)
+    - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5215815
   
 - [주제 2](./주제2/README.md)
   - [논문 1](./주제2/논문1.md)
